@@ -127,14 +127,20 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-Data
+
+## Data
+
 ![image](https://github.com/user-attachments/assets/d861bfce-17ba-4f27-b49f-be9aa85c1b7a)
 
 
-Data Checking
+## Data Checking
+
 ![image](https://github.com/user-attachments/assets/eee31055-b964-4d20-a01c-2bc633ff2577)
 
-Missing Data
+
+
+## Missing Data
+
 ![image](https://github.com/user-attachments/assets/b46f890b-02d7-460c-ac48-8ce3978eced7)
 
 
@@ -145,20 +151,25 @@ Values of 'Y'
 
 
 
-Outliers
+## Outliers
+
 ![image](https://github.com/user-attachments/assets/c5e0cd48-bcd6-42a3-bdb5-b5d5823ce3cf)
 
-Checking datasets after dropping string values data from dataset
+## Checking datasets after dropping string values data from dataset
+
 ![image](https://github.com/user-attachments/assets/0b1feaee-e870-4e88-9fba-ce80ae09a34e)
 
 
-Normalize the dataset
+## Normalize the dataset
+
 ![image](https://github.com/user-attachments/assets/27aa93d5-a920-4e24-a850-ddd5e22ea0aa)
 
-Split the dataset
+## Split the dataset
+
 ![image](https://github.com/user-attachments/assets/8195b084-5d20-4ca8-b6d5-af337776a919)
 
-Training and testing model
+## Training and testing model
+
 ![image](https://github.com/user-attachments/assets/6f8fd84e-7dea-4833-bc00-617881fa9776)
 
 
